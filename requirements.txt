@@ -1,0 +1,6 @@
+pytesseract
+opencv-python
+vobject
+tkinter
+
+
